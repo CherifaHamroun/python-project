@@ -1,0 +1,6 @@
+Création 
+python -m venv envname
+activation 
+envname\Scripts\activate.bat sur cmd activate.ps1 sur powershell
+désactivation 
+envname\Scripts\deactivate.bat sur cmd Deactivate.ps1 sur powershell
